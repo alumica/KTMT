@@ -59,3 +59,26 @@ Chương trình chỉ nhận ký tự nhập vào là chữ thường. Kết qu�
 dạng: </p>
 <b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hãy nhập một chữ thường (a-z): b</i></b><br>
 <b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chữ hoa tương ứng là: B</i></b><br>
+
+<h2>======= LAB 4 =======</h2> <BR>
+<h3>Bài 1:</h3>
+<p>Viết chương trình nhập một chuỗi ký tự. Hiển thị theo thứ tự ngược lại.
+Kết quả có dạng:</p>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hãy nhập chuỗi ký tự (kết thúc bằng Enter): ABC123</i></b> <br>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chuỗi ngược: 321CBA</i></b>
+  
+<h3>Bài 2:</h3>
+<p>Viết chương trình với yêu cầu sau theo dạng thủ tục. Nhập vào một ký
+tự. Nếu ký tự là chữ (A-Z hoặc a-z) hiện thông báo “Ký tự đã nhập là
+chữ”, nếu ký tự là số (0-9) hiện thông báo “Ký tự đã nhập là số”, nếu
+khác chữ hoặc số thì thông báo “Ký tự đã nhập khác chữ/số”. Lặp lại
+cho đến khi nhập phím ESC. Kết quả có dạng:</p>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập một ký tự (hoặc ESC): b</i></b><br>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký tự nhập là chữ</i></b>
+  
+<h3>Bài 3:</h3>
+<p>Viết chương trình với yêu cầu sau theo dạng thủ tục. Nhập một chữ
+thường, đổi thành chữ hoa rồi xuất ở dòng kế tiếp. Chương trình chỉ
+nhận ký tự nhập vào là chữ thường. Kết quả trên màn hình có dạng:</p>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hãy nhập một chữ thường (a-z): b</i></b><br>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chữ hoa tương ứng là: B</i></b>
