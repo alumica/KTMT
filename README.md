@@ -82,3 +82,6 @@ thường, đổi thành chữ hoa rồi xuất ở dòng kế tiếp. Chương 
 nhận ký tự nhập vào là chữ thường. Kết quả trên màn hình có dạng:</p>
 <b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hãy nhập một chữ thường (a-z): b</i></b><br>
 <b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chữ hoa tương ứng là: B</i></b>
+
+<br>
+`Disclaimer: Tài liệu này dùng để tham khảo.`
