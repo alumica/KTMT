@@ -33,3 +33,15 @@ chữ/số”. Kết quả trên màn hình có dạng:</p>
 ASCII. Kết quả màn hình có dạng:</p>
 <b><i>Nhập một ký tự: a</i></b><br>
 <b><i>Năm ký tự kế tiếp: bcdef</i></b>
+  
+<h3>Bài 5:</h3>
+<p>Tương tự bài 9 nhưng hiển thị 5 ký tự đướng trước. Kết quả trên màn hình
+có dạng:</p>
+<b><i>Nhập một ký tự: f</i></b><br>
+<b><i>Năm ký tự kế tiếp: abcde</i></b>
+  
+<h3>Bài 6</h3>
+<p>Nhập một ký tự rồi hiển thị 5 ký tự đứng trước và đứng sau theo dạng:</p>
+<b><i>Nhập một ký tự: f</i></b><br>
+<b><i>Năm ký tự đứng trước: abcde</i></b><br>
+<b><i>Năm ký tự đứng sau: ghijk</i></b>
