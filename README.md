@@ -7,8 +7,8 @@
 ╚═╝░░╚═╝╚═════╝░╚═════╝░╚══════╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░╚═╝░░░
 
 <h2>======= LAB 3 =======</h2> <BR>
-<h3 href="https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab3/bt1.asm">Bài 1:</h3>
-<p>Viết chương trình nhập một ký tự S, C hay T. </p>
+<h3>Bài 1:</h3>
+<p>Viết chương trình nhập một ký tự S, C hay T.</p>
 <ul>
   <li>Nếu nhập S hoặc s hiển thị câu “Chào buổi sáng”</li>
   <li>Nhập C hoặc c, hiển thị “Chào buổi chiều”</li>
@@ -23,3 +23,13 @@ thông báo “Ký tự đã nhập là chữ”, nếu ký tự là số (0-9) 
 chữ/số”. Kết quả trên màn hình có dạng:</p>
 <b><i>Nhập một ký tự: A</i></b> <br>
 <b><i>Ký tự nhập là chữ</i></b>
+  
+<h3>Bài 3:</h3>
+<p>Viết chương trình hiển thị các chữ hoa trong bộ mã ASCII.</p>
+<b><i>ABCDEFGHIJKLMNOPQRSTUVWXYZ</i></b>
+  
+<h3>Bài 4:</h3>
+<p>Viết chương trình nhập một ký tự và hiển thị 5 ký tự kế tiếp trong bộ mã
+ASCII. Kết quả màn hình có dạng:</p>
+<b><i>Nhập một ký tự: a</i></b><br>
+<b><i>Năm ký tự kế tiếp: bcde</i></b>
