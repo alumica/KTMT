@@ -32,4 +32,4 @@ chữ/số”. Kết quả trên màn hình có dạng:</p>
 <p>Viết chương trình nhập một ký tự và hiển thị 5 ký tự kế tiếp trong bộ mã
 ASCII. Kết quả màn hình có dạng:</p>
 <b><i>Nhập một ký tự: a</i></b><br>
-<b><i>Năm ký tự kế tiếp: bcde</i></b>
+<b><i>Năm ký tự kế tiếp: bcdef</i></b>
