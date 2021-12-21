@@ -7,7 +7,8 @@
 ╚═╝░░╚═╝╚═════╝░╚═════╝░╚══════╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░╚═╝░░░
 <br>
 <br>
-`Disclaimer: Tài liệu dùng để tham khảo, không dùng cho mục đích khác.`
+`Disclaimer: Tài liệu dùng để tham khảo, không dùng cho mục đích khác.`<br>
+`Update: 21/12/21`
 ## ======= LAB 3 =======
 ### [Bài 1: Viết chương trình nhập một ký tự S, C hay T.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab3/bt1.asm)
 * Nếu nhập S hoặc s hiển thị câu “Chào buổi sáng”
@@ -70,54 +71,54 @@
 <br>
 
 ## ======= LAB 5 =======
-### Bài 1: Viết chương trình nhập một số nhị phân chứa trong BX. Chương trình có kiểm tra ký tự nhập phải là bit hợp lệ, việc nhập kết thúc khi nhấn Enter hoặc đã nhập đủ 16 bit. Kết quả có dạng:
+### [Bài 1: Viết chương trình nhập một số nhị phân chứa trong BX. Chương trình có kiểm tra ký tự nhập phải là bit hợp lệ, việc nhập kết thúc khi nhấn Enter hoặc đã nhập đủ 16 bit. Kết quả có dạng:](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt1_2.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập số nhị phân (tối đa 16 bit): __1010__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Số nhị phân đã nhập:  __1010__
 <br>
 
-### Bài 2: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 1).
+### [Bài 2: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 1).](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt1_2.asm)
 <br>
 
-### Bài 3: Viết chương trình nhập một số thập lục phân chứa trong BX. Chương trình có kiểm tra tính hợp lệ của ký tự nhập vào và không cho nhập quá 4 ký số. Kết quả có dạng:
+### [Bài 3: Viết chương trình nhập một số thập lục phân chứa trong BX. Chương trình có kiểm tra tính hợp lệ của ký tự nhập vào và không cho nhập quá 4 ký số. Kết quả có dạng:](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt3_4.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập số thập lục phân (tối đa 4 ký số): __ABCD__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Số nhị phân đã nhập:  __ABCD__
 <br>
 
-### Bài 4: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 3).
+### [Bài 4: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 3).](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt3_4.asm)
 <br>
 
-### Bài 5: Viết chương trình nhập số thập chứa trong BX.
+### [Bài 5: Viết chương trình nhập số thập chứa trong BX.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt5_6.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập số thập phân: __20__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Số số thập phân đã nhập:  __20__
 <br>
 
-### Bài 6: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 5).
+### [Bài 6: Viết chương trình xuất số nhị phân trong BX (Gộp chung với Bài 5).](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt5_6.asm)
 <br>
 
-### Bài 7: Viết chương trình xuất ra màn hình ngày tháng năm của hệ thống.
+### [Bài 7: Viết chương trình xuất ra màn hình ngày tháng năm của hệ thống.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt7.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ngày/tháng/năm của hệ thống: __21/12/21__
 <br>
 
-### Bài 8: Viết chương trình xuất ra màn hình giờ phút giây của hệ thống.
+### [Bài 8: Viết chương trình xuất ra màn hình giờ phút giây của hệ thống.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt8.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giờ:phút:giây của hệ thống: __00:30:32__
 <br>
 
-### Bài 9: Viết chương trình xuất ký tự đầu tiên của thanh ghi 16 bit.
+### [Bài 9: Viết chương trình xuất ký tự đầu tiên của thanh ghi 16 bit.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt9.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thanh ghi BX hiện đang có giá trị là 12AA thì xuất: __1__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thanh ghi BX có giá trị là DE23 thì xuất: __D__
 <br>
 
-### Bài 10: Viết chương trình tính diện tích và chu vi hình chữ nhật.
+### [Bài 10: Viết chương trình tính diện tích và chu vi hình chữ nhật.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt10.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập chiều dài: __5__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập chiều rộng: __2__<br>
 > > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chu vi hình chữ nhật: __14__<br>
 > > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diện tích hình chữ nhật: __10__
 <br>
 
-### Bài 11: Viết chương trình nhập vào 2 số; lấy 2 số này chia cho nhau phần thương được lưu trên BX phần, dư được lưu trên CX.
+### [Bài 11: Viết chương trình nhập vào 2 số; lấy 2 số này chia cho nhau phần thương được lưu trên BX phần, dư được lưu trên CX.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt11.asm)
 <br>
 
-### Bài 12: Viết chương trình tính tổng, hiệu tích thương của hai số vừa nhập.
+### [Bài 12: Viết chương trình tính tổng, hiệu tích thương của hai số vừa nhập.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab5/bt12.asm)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập số thứ nhất (x): __5__<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhập số thứ hai (y): __1__<br>
 > > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x + y = __6__<br>
