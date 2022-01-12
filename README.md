@@ -8,7 +8,7 @@
 <br>
 <br>
 `Disclaimer: Tài liệu dùng để tham khảo, không dùng cho mục đích khác.`<br>
-`Update: 21/12/21`
+`Update: 12/01/22`
 ## ======= LAB 3 =======
 ### [Bài 1: Viết chương trình nhập một ký tự S, C hay T.](https://github.com/alumica/KTMT/blob/main/2011400_NguyenTuanKiet_Lab3/bt1.asm)
 * Nếu nhập S hoặc s hiển thị câu “Chào buổi sáng”
